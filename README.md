@@ -599,6 +599,22 @@ If you find **CareerAI** useful, consider giving the repository a ⭐ on GitHub.
 💡 Suggest features
 🤝 Contribute
 ```
+## 👨‍💻 Author
+
+**Diwakar**
+
+- 🎓 B.Tech - Computer Science & Engineering
+- 💻 MERN Stack Developer
+
+### GitHub
+
+https://github.com/dry-shy
+
+### LinkedIn
+
+https://www.linkedin.com/in/diwakar-yadav-0341aa29a/
+
+---
 
 ---
 
