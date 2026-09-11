@@ -403,7 +403,7 @@ Express REST API
 AI Service
       │
       ▼
-Gemini API
+Gorq API
       │
       ▼
 AI Response
