@@ -163,7 +163,7 @@ Recommended Skills:
 
 ### AI
 
-* 🤖 Google Gemini API
+* 🤖Gorq LLM API
 * Generative AI
 * Prompt Engineering
 
@@ -201,7 +201,7 @@ Recommended Skills:
                │                         │
                ▼                         ▼
        ┌───────────────┐         ┌───────────────┐
-       │    MongoDB    │         │  Gemini API   │
+       │    MongoDB    │         │  Groq API   │
        │   Database    │         │      AI       │
        └───────────────┘         └───────────────┘
 ```
