@@ -615,11 +615,3 @@ https://github.com/dry-shy
 https://www.linkedin.com/in/diwakar-yadav-0341aa29a/
 
 ---
-
----
-
-## 🚀 CareerAI
-
-> **Learn. Practice. Improve. Get Hired.**
-
-**CareerAI — Your AI-powered career companion.**
