@@ -20,7 +20,6 @@ With CareerAI, users can:
 * 🎯 Receive personalized career guidance
 * 📊 Track interview preparation progress
 * 🔐 Create an account and manage their profile
-
 ---
 
 ## ✨ Features
